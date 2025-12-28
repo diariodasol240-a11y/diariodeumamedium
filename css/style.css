@@ -109,3 +109,30 @@ footer {
   font-size: 0.9rem;
   color: #c7b7e2;
 }
+/* === BANNER === */
+.banner {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.banner img {
+  width: 100%;
+  max-width: 1200px;
+  max-height: 420px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 15px auto;
+}
+
+.banner h1 {
+  font-family: 'Uncial Antiqua', cursive;
+  font-size: 2.5rem;
+  color: #f5e9b8;
+  margin: 10px 0 5px;
+}
+
+.subtitulo {
+  font-size: 1.1rem;
+  color: #d6c6f0;
+}
